@@ -1,0 +1,428 @@
+PACK OF SELF-STUDIED OF 3 YEARS 
+____________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+Interface and Tools of After Effects
+
+Creating and Managing Layers in After Effects
+
+Remembering Shortcuts ( REALLY IMPORTANT )
+
+   General Shortcuts:
+
+Ctrl+N: New Composition
+
+Ctrl+O: Open Project
+
+Ctrl+S: Save Project
+
+Ctrl+Z: Undo
+
+Ctrl+Shift+Z: Redo
+
+Ctrl+Alt+Shift+S: Save a Copy As
+
+Ctrl+Alt+Z: Purge All Memory and Disk Cache
+
+
+   Timeline Shortcuts:
+
+Spacebar: Play/Pause
+
+Alt+[ or Alt+]: Trim In/Out Point of the selected layer to the current time
+
+Ctrl+[ or Ctrl+]: Trim In/Out Point of the selected layer to layer In/Out Point
+
+Home: Move the timeline to the beginning
+
+End: Move the timeline to end
+
+Page Up/Page Down: Move the timeline one frame backward/forward
+
+Ctrl+Home: Move to the start of the active composition
+
+Ctrl+End: Move to the end of the active composition
+
+
+   Layer Shortcuts:
+
+Ctrl+D: Duplicate selected layer(s)
+
+Ctrl+Shift+D: Split the selected layer at the current time
+
+Ctrl+Shift+C: Pre-compose selected layers
+
+Ctrl+Alt+Shift+E: Create a new solid layer
+
+Ctrl+Alt+Shift+V: Paste Layers at the Current Time
+
+Ctrl+Alt+Shift+H: Hide all layers except the selected layer(s)
+
+Ctrl+Alt+Shift+F: Solo selected layer(s)
+
+
+   Transform and Position Shortcuts:
+
+P: Position
+
+S: Scale
+
+R: Rotation
+
+T: Opacity
+
+Ctrl+Shift+P: Auto-orient selected layers to the camera
+
+Ctrl+Alt+P: Pa layers
+
+Ctrl+Alt+Shift+P: Unparent selected layers
+
+
+   Keyframe and Animation Shortcuts:
+
+U: Reveal all keyframes on selected layers
+
+K: Toggle Time-Remapping on rent-elected sell selected layer(s)
+
+Ctrl+Alt+Shift+H: Show properties with keyframes
+
+Ctrl+Alt+A: Enable/Disable expressions on es property(s)
+
+Alt+Click stopwatch: Add or remove the th keyframe
+
+Ctrl+Alt+Click stopwatch: Add an expression
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Managing File and File Organization ( videos , pictures , layers , composition ,,,,, ) 
+
+Composition (1920x1080 16:9 1080x1080 1:1)... need to learn it by heart cus it is important
+
+Using Scripts with .jsx File Extension, Installing Script Software via Adobe Extension (For example, a script for pre-composition is a piece of code written in the JavaScript programming
+
+ language, serving as a plugin for shortcut extension in AE, providing utility and time-saving features. Some examples include creating null objects, creating keyframes, creating layers, etc...... 
+              
+
+           code (.jsx) optional to understand haha :)))
+--------------------------------------------------------------------------------------------------------
+// Create a Precomposition Script for After Effects
+
+// Prompt for the precomposition name
+var precompName = prompt("Enter the name of the precomposition:", "");
+
+// Check if a name was entered
+if (precompName !== null && precompName !== "") {
+  // Get the selected layers in the active composition
+  var selectedLayers = app.project.activeItem.selectedLayers;
+  
+  // Check if any layers are selected
+  if (selectedLayers.length > 0) {
+    // Create a new precomposition
+    var precomp = app.project.activeItem.layers.precompose(selectedLayers, precompName, true);
+    
+    // Display a success message
+    alert("Precomposition created successfully with the name: " + precomp.name);
+  } else {
+    // No layers selected, display an error message
+    alert("Please select at least one layer to create a precomposition.");
+  }
+} else {
+  // No name entered, display an error message
+  alert("Please enter a valid name for the precomposition.");
+}
+--------------------------------------------------------------------------------------------------------------------
+To use this script in After Effects, follow these steps:
+
+1 Open After Effects and create a new composition or open an existing one.
+2 Go to "File" > "Scripts" > "New Script File" to open the scripting editor.
+3 Copy and paste the above script into the scripting editor.
+4 Save the script with a .jsx or .js file extension (e.g., "PrecompositionScript.jsx").
+5 Go back to After Effects and select the layers you want to precompose.
+6 Go to "File" > "Scripts" > "Run Script File" and select the script file you saved.
+7 A prompt will appear asking for the precomposition name. Enter a name and click "OK."
+8 If the precomposition is created successfully, a success message will appear.
+MUST RESTART YOUR APPLICATION BEFORE USING IT 
+________________________________________________________________________________________________________________________________________
+
+
+
+There are a lot of useful applications for After Effects that make it easier to get work done by adding special effects and useful tools. Here are a few important tools that users can add to After Effects to make it more creative and expand its capabilities:
+
+Trapcode Suite                 important
+Element 3D                     important
+Optical Flares                  important
+Red Giant Universe              important
+Video Copilot Twitch            important
+Twixtor                         important
+Saber                           important
+Plexus                           important       ( look like zodiac =)) )
+Magic Bullet Looks       important 
+Duik Bassel
+Newton
+Particular                important 
+Real Glow                 important
+Monospacer
+Motion V2                 important
+Animation Composer
+Stardust                  important
+Sapphire                  important
+Flow                      important
+Joysticks 'n Sliders
+Ease and Wizz
+DUIK
+RSMB (ReelSmart Motion Blur)            important
+BG Renderer                          important
+Ray Dynamic Color
+RubberHose
+Newton 3
+Video Copilot Heat Distortion                important
+Video Copilot Action Essentials 2               important
+Red Giant Knoll Light Factory
+Video Copilot Riot Gear
+Video Copilot Shockwave                important
+Motion Boutique Connect Layers
+Stardust Modular Particle System
+Video Copilot Sure Target 2
+Video Copilot Optical Glow              important
+Red Giant VFX Suite                     important
+Video Copilot 3D Element Materials & Shaders
+Plexus OBJ Sequence Exporter                important
+Video Copilot Pro Shaders 2
+Data Glitch
+Glitch 7 in 1                       important
+Element 3D Pro Shaders              important
+Video Copilot Saber                 important
+Video Copilot MotionPulse           important
+Red Giant Magic Bullet Suite
+Video Copilot JetStrike
+Video Copilot BackLight
+Video Copilot Evolution
+Video Copilot Riot Gear Pre-Matted Organic Stock Footage
+Red Giant Universe                                                   really important
+Video Copilot Film Magic Pro
+Video Copilot Riot Gear Pre-Matted Organic Stock Footage
+Video Copilot Evolution
+Video Copilot Action Movie Essentials
+Red Giant Primatte Keyer
+Red Giant Key Correct                                      important       (maybe it contains keylight color 1.2 ?)
+Red Giant Shooter Suite                                   important
+Red Giant PluralEyes
+Red Giant Effects Suite
+Red Giant Color Suite
+Red Giant Keying Suite
+Boris FX Sapphire                                           really important
+Mister Horse Animation Composer                            really important
+Video Copilot Pro Scores
+Red Giant Universe VHS
+Video Copilot Optical Flares Pro Presets 2
+Red Giant Trapcode Shine                                 important
+Red Giant Trapcode Starglow
+Video Copilot Riot Gear 2
+Rowbyte Plexus
+Video Copilot Designer Sound FX
+Red Giant Universe ToonIt
+Video Copilot Motion Design Pack               important
+aescripts Rift
+aescripts Pastiche
+aescripts AE Pixel Sorter            important
+aescripts Flow                       important
+aescripts Bodymovin
+aescripts Explode Shape Layers
+aescripts Overlord
+aescripts Limber
+________________________________________________________________________________________________________________________________________________
+For example about the basic plugin that people always use for simple edit is TWIXTOR : description about it 
+
+IMAGINE THAT : It works by analyzing the motion within a sequence of frames and intelligently interpolating new frames to create the illusion of slow motion or time manipulation.
+
+Apply Twixtor to a layer in After Effects, you can adjust its parameters to control the speed and quality of the slow-motion effect. Here's a simplified explanation of how Twixtor works in a layer:
+
+Frame Analysis: Twixtor analyzes the motion between frames in your footage. It identifies moving objects and tracks their movement across frames.
+
+Frame Interpolation: Based on the motion analysis, Twixtor intelligently generates new frames between the existing frames. These interpolated frames help create smooth and fluid motion.
+
+Time Remapping: Twixtor allows you to manipulate the timing of your footage. By adjusting keyframes or using speed ramps, you can speed up or slow down specific sections of your footage.
+
+Speed Controls: Twixtor provides various parameters to control the speed and quality of the slow-motion effect. You can adjust the Speed parameter to determine how much to slow down the footage. The Frame Rate parameter allows you to specify the output frame rate of the slow-motion sequence.
+
+Quality Settings: Twixtor offers different quality modes to enhance the interpolation process. You can choose between options like Draft, Normal, and High Quality, depending on your project requirements and the level of detail in your footage.
+
+Masking and Tracking: If needed, Twixtor allows you to apply masks to limit the effect to specific areas of the frame. You can also use tracking tools to automatically track the movement of objects and apply the effect accurately. 
+
+By using Twixtor, you can achieve smooth slow-motion effects even with footage that was not originally captured at a high frame rate. It helps create realistic and visually appealing slow-motion sequences by intelligently generating new frames.
+
+____________________________________
+TWIXTOR + 60fps = smooth
+TWIXTOR +60fps - dead frame = smoother
+-dead frame + FLOWFRAMES + 60fps + TWIXTOR = SMOOTHIEST
+________________________________________________________________________________________________________
+
+               why ?
+
+
+FLOWFRAMES ????? whats that 
+
+https://nmkd.itch.io/flowframes
+
+
+what can it do ?????? actually ,                                         depends on fpssss 
+
+When people use the technique of "flow frames," they are essentially increasing the frame rate of a video or animation to create smoother motion. By inserting additional frames between the original frames, the motion appears more fluid and continuous, reducing the perception of choppiness or jerkiness.
+
+The standard frame rate for videos is typically 24 frames per second (fps) or 30 fps. When an action or movement occurs within these frame rates, there can be noticeable gaps between frames, especially during fast-paced or complex motions. This can result in a less smooth and more stuttered visual experience.
+
+By adding flow frames, the frame rate is increased, meaning more frames are inserted between the original frames. For example, if the original video is captured at 24 fps, flow frames may be added to increase the effective frame rate to 48 fps or higher. These additional frames fill in the gaps between the original frames, creating smoother transitions and reducing the perception of motion blur.
+
+The interpolation process used to generate flow frames involves analyzing the movement in the original frames and creating new frames that interpolate the motion between them. This interpolation can be done using various algorithms, such as optical flow, which estimate the movement of pixels between frames.
+
+The result is a video or animation with smoother and more natural-looking motion. This can be particularly beneficial for fast-moving subjects, dynamic camera movements, or any action that requires precise and fluid motion. By increasing the frame rate through flow frames, the viewer experiences a more immersive and visually pleasing viewing experience.
+
+It's important to note that while flow frames can enhance the smoothness of motion, they do not add actual detail or information that was not present in the original frames. They simply create the illusion of smoother motion by inserting additional frames based on the analysis of the existing frames.
+
+THAT IS DESCRIPTION.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+In particular, there are some excellent extension plugins available that greatly facilitate project workflow and time-saving tasks. For example, Mister Horse is a popular plugin used for creating Evo Texts. You can find tutorials on how to make Evo Texts and how to use Mister Horse in After Effects.             YOUTUBE 
+
+Simple video editing can be done using the built-in effects and tools in After Effects, such as text animation, shape animation, and logo animation. It is recommended to search for tutorials and gain an understanding of these techniques.
+
+Some commonly used layers in After Effects include Adjustment layer, Null layer, Solid layer, Camera layer, Text layer, Shape layer, Video layer, and PNG layer. It's important to learn about each of these layers and their functionalities.
+
+For basic animation, you can explore properties like Scale (2D and 3D zoom) 3D zoom depends on camera motion, Position (moving layers and creating motion effects with keyframes, as well as understanding Anchor Point and Parenting concepts), Rotation, Graph Editor, and Timeline (adjusting and manipulating keyframes, viewing graphs, and getting familiar with concepts like ease in/out and bezier handles). Experimenting with these settings will help you achieve smooth animations.
+
+Different image file formats like PNG, JPEG, GIF, BMP, TIFF, and PSD have varying characteristics and purposes. Understanding the differences will help you choose the appropriate format for your needs.
+
+The bit depth of a video/image affects its color representation and can impact the quality of gradients and fine details. Higher bit depths generally provide better color accuracy and smoother transitions (maybe )?
+
+3D camera tracking involves analyzing footage to recreate a virtual camera within After Effects. It allows you to composite 3D elements into your scene. On the other hand, 2D camera tracking is used to track the movement of a 2D layer within a 2D space.
+
+Keyframes and interpolation are essential for creating motion effects. Dead frames refer to still frames inserted intentionally for specific effects. For example, in anime research, you can use down frames to analyze animation sequences.
+
+To download anime episodes without subtitles, you can use websites like jut.su and nyasi for torrent downloads, or mega.nz for file hosting. Please note that I cannot provide direct links.
+
+Using tools like "Paint" and "Puppet" allows for virtual manipulation and distortion effects. It is worth exploring these techniques beforehand ( cool stuff )
+
+Interface and Tools of Photoshop
+
+Header in photoshop ? ( Header design ) for designers
+
+Texture.....
+
+Toolbox in photoshop ? 
+
+Move Tool: Used to move layers and selections within an image.
+
+Rectangular Marquee Tool: Allows you to make rectangular selections.
+
+Elliptical Marquee Tool: Enables you to make elliptical selections.
+
+Single Row Marquee Tool: Allows you to make a one-pixel high selection across a row.
+
+Lasso Tool: Used for freehand selections.
+
+Polygonal Lasso Tool: Allows you to make selections using straight lines.
+
+Magnetic Lasso Tool: Automatically snaps to the edges of objects for easier selections.
+
+Quick Selection Tool: Enables you to quickly select and isolate objects in an image.
+
+Magic Wand Tool: Allows you to select areas based on color similarity.
+
+Crop Tool: Used to crop and straighten images.
+
+Slice Tool: Used for creating image slices for web optimization.
+
+Healing Brush Tool: Helps you to fix blemishes and imperfections in an image.
+
+Spot Healing Brush Tool: Automatically samples and blends nearby pixels to fix imperfections.
+
+Brush Tool: Used for painting and drawing on an image.
+
+Clone Stamp Tool: Allows you to clone pixels from one area and apply them to another.
+
+History Brush Tool: Used to selectively restore parts of an image to a previous state.
+
+Eraser Tool: Removes pixels from an image.
+
+Gradient Tool: Applies smooth transitions between colors.
+
+Blur Tool: Used to blur or smudge areas of an image.
+
+Sharpen Tool: Enhances the sharpness and clarity of an image.
+
+Dodge Tool: Lightens areas of an image.
+
+Burn Tool: Darkens areas of an image.
+
+Sponge Tool: Used for desaturating or saturating colors in an image.
+
+Pen Tool: Allows you to create precise paths and shapes.
+
+Type Tool: Used for adding and editing text in an image.
+
+Path Selection Tool: Helps you to select and manipulate existing paths.
+
+Direct Selection Tool: Allows you to select and modify individual anchor points on a path.
+
+Custom Shape Tool: Enables you to create custom vector shapes.
+
+Hand Tool: Used to navigate around the image when zoomed in.
+
+Zoom Tool: Allows you to zoom in and out of an image.
+____________________________________________________________________________________________________________________________
+
+
+According to AI answers , AI has been added into PTS AND PR ( PR trash )
+
+Adobe Photoshop has several AI-powered features that can help you with your creative projects. These features include:
+
+Adobe Sensei which is an AI and machine learning technology that powers Photoshop’s features such as Content-Aware Fill, Face-Aware Liquify, and Select Subject.
+
+Neural Filters which is a set of filters powered by Adobe Sensei that can help you apply non-destructive effects to your images. You can use Neural Filters to apply effects such as Skin Smoothing, Smart Portrait, and Colorize.
+
+Sky Replacement which is an AI-powered feature that allows you to replace the sky in your photos with just a few clicks.
+
+Using AI in Photoshop ( basically depends on the copyright in RMIT license , use officially will get best service )
+
+LINK: https://helpx.adobe.com/photoshop/using/generative-fill.html 
+----------------------------------------------------------------------------------------------------
+
+Basic Concepts of Layers, Masks, and  ( Color Correction depends on hue color , looks , tone )
+
+Different Types of Masks for various tasks (such as Pen Mask or Roto Brush for faster workflow) and adjusting settings for smooth and effective results
+
+Managing and arranging layers with overlapping colors
+
+Basic Graphic Design using drawing and selection tools in Photoshop ( for example learn tools by editing poster, photo....... YOUTUBE TUTORIAL )
+
+Basic Image Editing such as cropping, retouching, and creating special effects
+
+Cutting, merging, and editing videos in After Effects ( basic )
+
+Using transition effects to create smooth scene transitions ( keyword: seemless transition ) 
+
+Enhancing video experience with audio effects and music ( reverb , 8d audio ,...... )
+
+Professional photo editing in Photoshop, including retouching, color adjustments, color grading, and creating special effects
+
+Using After Effects for dynamic motion graphics, frame blending, motion blur ( can use frame blending for giat giat style ) 
+
+
+MOREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+
+video enhance to enhance the quality of the video
+
+shotcut use for convert mkv file into mp4 , mov file
+
+ styles edit ( daddy, typography , candy , edgy , vibe ,3d, mmv , amv  ) 
+
+
+tutorial examples:
+after effects for newbie
+photoshop for newbie 
+how to make "message"....
+how to ..... ( key words ) for tutorials
+chatopenai for lectures
+
