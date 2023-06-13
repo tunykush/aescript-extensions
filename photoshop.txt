@@ -1,0 +1,83 @@
+Interface and Tools of Photoshop
+
+Header in photoshop ? ( Header design ) for designers
+
+Texture.....
+
+Toolbox in photoshop ? 
+
+Move Tool: Used to move layers and selections within an image.
+
+Rectangular Marquee Tool: Allows you to make rectangular selections.
+
+Elliptical Marquee Tool: Enables you to make elliptical selections.
+
+Single Row Marquee Tool: Allows you to make a one-pixel high selection across a row.
+
+Lasso Tool: Used for freehand selections.
+
+Polygonal Lasso Tool: Allows you to make selections using straight lines.
+
+Magnetic Lasso Tool: Automatically snaps to the edges of objects for easier selections.
+
+Quick Selection Tool: Enables you to quickly select and isolate objects in an image.
+
+Magic Wand Tool: Allows you to select areas based on color similarity.
+
+Crop Tool: Used to crop and straighten images.
+
+Slice Tool: Used for creating image slices for web optimization.
+
+Healing Brush Tool: Helps you to fix blemishes and imperfections in an image.
+
+Spot Healing Brush Tool: Automatically samples and blends nearby pixels to fix imperfections.
+
+Brush Tool: Used for painting and drawing on an image.
+
+Clone Stamp Tool: Allows you to clone pixels from one area and apply them to another.
+
+History Brush Tool: Used to selectively restore parts of an image to a previous state.
+
+Eraser Tool: Removes pixels from an image.
+
+Gradient Tool: Applies smooth transitions between colors.
+
+Blur Tool: Used to blur or smudge areas of an image.
+
+Sharpen Tool: Enhances the sharpness and clarity of an image.
+
+Dodge Tool: Lightens areas of an image.
+
+Burn Tool: Darkens areas of an image.
+
+Sponge Tool: Used for desaturating or saturating colors in an image.
+
+Pen Tool: Allows you to create precise paths and shapes.
+
+Type Tool: Used for adding and editing text in an image.
+
+Path Selection Tool: Helps you to select and manipulate existing paths.
+
+Direct Selection Tool: Allows you to select and modify individual anchor points on a path.
+
+Custom Shape Tool: Enables you to create custom vector shapes.
+
+Hand Tool: Used to navigate around the image when zoomed in.
+
+Zoom Tool: Allows you to zoom in and out of an image.
+____________________________________________________________________________________________________________________________
+
+
+According to AI answers , AI has been added into PTS AND PR ( PR trash )
+
+Adobe Photoshop has several AI-powered features that can help you with your creative projects. These features include:
+
+Adobe Sensei which is an AI and machine learning technology that powers Photoshop’s features such as Content-Aware Fill, Face-Aware Liquify, and Select Subject.
+
+Neural Filters which is a set of filters powered by Adobe Sensei that can help you apply non-destructive effects to your images. You can use Neural Filters to apply effects such as Skin Smoothing, Smart Portrait, and Colorize.
+
+Sky Replacement which is an AI-powered feature that allows you to replace the sky in your photos with just a few clicks.
+
+Using AI in Photoshop ( basically depends on the copyright in RMIT license , use officially will get best service )
+
+LINK: https://helpx.adobe.com/photoshop/using/generative-fill.html 
