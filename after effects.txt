@@ -335,6 +335,543 @@ shotcut use for convert mkv file into mp4 , mov file
 
  styles edit ( daddy, typography , candy , edgy , vibe ,3d, mmv , amv  ) 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+|I WENT THROUGH ALL THE EFFECTS IN AFTER EFFECTS AND MADE A LIST OF THE MOST USEFUL ONES FOR AMV EDITING|
+
+|MAKE SURE TO TRY THE EFFECTS AND ALSO ALL THE EFFECTS HAVE DESCRIPTIONS WRITTEN AFTER THEM WHICH TELL WHAT THE EFFECT DOES|
+
+|IF SOME USEFUL PLUGINS AND EFFECTS ARE NOT IN THIS LIST THEN LET ME KNOW. SOME PLUGINS MAY BE MISSING BECAUSE I CURRENTLY DON'T|
+|HAVE A GRAPHICS CARD SO I CANNOT TEST AND EXPERIMENT WITH SOME PLUGINS AND EFFECTS BECAUSE THEY NEED A GRAPHICS CARD TO OPERATE|
+
+|THIS LIST WILL BE OCCASIONALLY UPDATED IN MY EDITING PACK SO CHECK MY COMMUNITY TAB ON YOUTUBE FOR UPDATES|
+
+|THIS TOOK ME A LONG TIME TO MAKE SO PLEASE SUBSCRIBE TO MY CHANNEL IF THIS HELPED YOU OUT <3|
+
+|THANK YOU VERY MUCH :D|
+
+
+NOTE: |THE TEXT WRITTEN WITH THE MINUS (--) SYMNBOL NEXT TO IT ARE CATEGORIES/FOLDERS IN AFTER EFFECTS AND BELOW THEM ARE EFFECTS. "ALL OF THEM" MEANS THAT ALL THE EFFECTS IN THAT CATEGORY ARE USEFUL|
+
+
+
+
+
+-BACKGROUND-
+
+All Of Them
+
+-Behaviors-
+
+Opacity Flash - Random - flashes opacity randomly
+Opacity Flash - Layer Markers - flashes opacity on placed layer markers
+Wigglerama - wiggles randomly
+
+-Image Creative-
+
+Colorize - infrared - red disturbance
+Colorize - red hand tint - cc
+Contrast - luminance - focus cc
+Contrast - saturation - focus cc
+Grayscale 4 - black&white cc
+Mood Lighting - amorphous - changes lighting
+Mood Lighting - digital - changes lighting to a blocky texture
+
+-Image - Special Effects-
+
+Light Leaks - random - flickers lights randomly
+Night Vision - adds a night vision effect like in video games and movies
+
+-Image - Utilities-
+
+Flop - flips the image horizontally
+Levels - video to computer - focus cc
+
+-Sound Effects-
+
+RingingPhone-US - ringsing phone sfx
+Busy - busy phone sfx
+
+-Synthetics-
+
+Lightning - Vertical
+Lightning - Horizontal
+Mosaic - adds a blocky blur
+Orange Streaks - adds line streaks
+Smoke - Drifting - adds smoke
+
+-Text-
+
+Contract - contracts text
+Extend - expands text
+
+-Transitions - Wipes-
+
+Clock Wipe - wipes with mask like a clock hand
+
+-Audio-
+
+Flange & Chorus - changes vocals
+High-Low Pass - changes high and lows and is also mainly used for audio muffle
+Modulator - makes goofy audio
+Reverb - makes a echoy audio
+Stereo Mixer - can change the audio from left to right and from right to left speakers
+
+-BCC Art Looks-
+
+BCC Bump Map - makes coloring focus out and serious
+BCC Charcoal Sketch - makes a manga sketch
+BCC Halftone - dots
+BCC Pencil Sketch - makes a better manga sketch
+BCC Tile Mosaic - makes a terraria-like sketch
+
+-BCC Blur-
+
+BCC Directional Blur - blur with direction controls
+BCC Fast Lens/Lens Blur - halo blur like capcut but cleaner
+BCC Radial Blur - focus blur
+BCC Spiral Blur - circle blur
+
+-BCC Film Style-
+
+BCC Fast Film/Film Glow - adds a glow
+BCC Film Damage - adds a 90's old tv/film effect
+BCC Vignette - adds a black outline border
+
+-BCC Image Restoration-
+
+BCC Dust and Scratches - uses ai to fix edges and make them look cleaner
+BCC Lens Correction - makes a zoom in feel and also a zoom out. try it yourself
+
+-BCC Key & Blend-
+
+BCC Chroma Key - mainly used to make layer underneath visible through some parts of the layer above
+BCC Composite - focus cc
+BCC Linear Color Key - mainly used to make layer underneath visible through some parts of the layer above
+
+-BCC Lights-
+
+BCC Glare - makes a glare effect
+BCC Glint - makes a glint effect
+BCC Glitter - makes glitter
+BCC Laser Beam - makes a laser beam
+BCC Light Leaks - makes moving light leaks
+BCC Lightsweep - makes a sweep line
+BCC Lightning - makes lightning
+BCC Rays Cartoon - cool looking rays edgedetect
+BCC Rays Puffy - long rays
+BCC Rays Radiant Edges - cool looking rays edgedetect but lighter
+BCC Rays Ring - makes a ring ray edgedetect
+BCC Rays Ripply - cool ripple rays
+BCC Rays Textured - moving rays
+BCC Spotlight - makes a torch spotlight
+BCC Stage Light - makes a stage light
+
+-BCC Match Move-
+
+BCC WitnessProtection - makes a circle blur which can be used to hide certain objects. very clean
+
+-BCC Obsolete-
+
+BCC Alpha Spotlight OBS - makes a torch spotlight but visible through the clip
+BCC Color Palette OBS - useful for making backgrounds or making lightleaks
+BCC DeGrain OBS - useful for fixing unhd edges
+BCC DeNoise OBS - useful for fixing unhd pixels
+BCC Fire OBS - makes a fire overlay
+BCC Glow OBS - creates a glow
+BCC Light Matte OBS - reduces opacity to make clip below visible but doesnt actually reduce opacity
+BCC Rough Glow OBS - creates a clean rough glow
+
+-BCC Particles-
+
+BCC 2D Particles - creates a particle explosion
+BCC Organic Strands - creates tentacle strands
+BCC Particle System - used for creating particle animations
+BCC Pin Art 3D - very cool effect for creating shape wavy transitions
+BCC Rain - virtual rain
+BCC Snow - virtual snow
+
+-BCC Perspective-
+
+BCC 3D Extruded Imade Shatter - shatters the image in 3d
+BCC 3D Image Shatter - shatters the image in 2d
+BCC Cube - makes a cube
+BCC Cylinder - makes a cylinder
+BCC Fast Flipper - flips image horizontally
+BCC Page Turn - page turning animation
+BCC Sphere/Sphere Transition - makes a sphere
+
+-BCC Stylize-
+
+BCC Color Choker - makes colors look better
+BCC Colorize Glow - colored glow
+BCC Drop Shadow - adds a shadow around the outlines
+BCC Emboss - creates a metalic texture
+BCC Grunge - useful for creating objects with textures
+BCC LED - useful to create a 3d orientation scene with led disturbance
+BCC Misalignment - used to create chromatic aberration
+BCC Mosaic - blocky blur
+BCC Pirsm - lens distortion with chromatic aberration
+BCC RGB Edges - clean edge glow
+BCC RGB Pixel Noise - light noise texture
+BCC Scanline - creates lines which can be used to make some awesome transitions
+BCC Video Glitch - creates a moving chromatic aberration glitch
+
+-BCC Textures-
+
+All Of Them
+
+-BCC Time-
+
+BCC Beat Reactor - reacts to music beats/music visualizer
+BCC Jitter/Jitter Basic - adds automatic continuing looping transitions and is also useful to make goofy meme transitions
+BCC Looper - used to loop a certain clip over and over again
+BCC Posterize Time - useful to reduce fps without actually reducing fps from the comp settings
+BCC Temporal Blur - creates a blur on moving parts of the clip with precision to make the movement seem smoother
+BCC Time Displacement - also very useful to make clip smoother. creates a wide time effect by cuplicating the image to make movement seem smoother
+BCC Trails/Trails Basic - creates a very good looking trails effect
+BCC Velocity Remap - works just like time remap but has in built frame blending which is better than normal frame blending or optical flow
+
+-BCC Transitions-
+
+BCC Cross Glitch - creates a glitchy transition
+BCC Damaged TV Dissolve - makes a old damaged tv screen effect and also includes built in roll and slide
+BCC Flutter Cut - used to make flickers/blinks
+BCC Rays Dissolve - clean looking glow rays
+BCC Checker Wipe - clean checker wipe transition
+BCC Grid Wipe - clean grid wipe transition
+BCC Lens Distortion Wipe - clean lens distortion wipe transition
+BCC Light Wipe - clean light wipe transition just like lens distortion but without lens distortion
+BCC Linear Wipe - straight clean wipe transition
+BCC Multi Stretch Wipe - just like the linear wipe transition but random
+BCC Ribbon Wipe - clean ribbon wipe transition
+BCC Rings Wipe - clean rings wipe circle transition
+BCC Ripple Dissolve - clean useful ripple effect for warping or water splash
+BCC Textured Wipe - useful for dark style edits. clean texture wipe transition
+BCC Tritone Dissolve - clean looking dissolve for cc change or color ramp
+BCC Twister - super cool effect for making a page flip but not exactly a page flip
+BCC Water Waves Dissolve - very useful when put on a liquid texture or when used in warps
+
+-BCC Warp-
+
+BCC Buldg - makes a pan out bulg on the area you put the effect on
+BCC Displacement Map - distorts the placement and pixels to make a very cool effect and distorts via position horizontally
+BCC Polar Displacement - distorts the placement and pixels to make a very cool effect and distorts via scale
+BCC Ripple - kind of like the water waves dissolve effect but continously looping
+BCC Twirl - spinning twirl effect transition
+BCC Vector Displacement - distorts the placement and pixels to make a very cool effect and distorts via position diagonally
+BCC Wave - useful wave effect like water waves
+
+-Blur & Sharpen-
+
+Bilateral Blur - titone color ramp blur
+Camera Lens Blur - in built bokeh blur like a real life camera out of focus
+CC Radial Fast Blur - fast exposure hit blur
+Directional Blur - controllable blur via direction
+Fast Box Blur - useful to remove noise
+Gaussian Blur - overall clean blur
+Radial Blur - circle focus blur
+Sharpen - useful to make images sharper thus increasing quality
+Unsharp Mask - combine with sharpen to make the sharpen look cleaner
+
+-Channel-
+
+Invert - inverts the colors
+Minimax - boxed shaped blur
+
+-Color Correction-
+
+Auto Color - fixes lighting
+Auto Contrast - fixes contrast
+Auto levels - fixes brightness
+Black & White - makes image black and white
+Brightness & Contrast - used to change brightness and contrast values
+CC Color Offset - useful to make cc without plugins
+CC Toner - tritore color ramp for cc without plugins
+Change to Color - cool transition maker with colors if used correctly
+Channel Mixer - useful to make cc without plugins
+Color Balance - balances color when cc is made without any plugins
+Colorama - incredibly useful when combined with effects like edgedetect or glow edges
+Curves - changes coloring with a curve pattern
+Exposure - changes brightness ligtning
+Hue/Saturation - changes color of the image and also has in built saturation and lightning values. useful in cc making
+Leave Color - can be used to make image black and white but leave one color be
+Levels - changes lightning brightness like curves but with use of a slider this time
+Lumetri Color - useful to make cc
+Photo Filter - useful if you wanna make your own cc without plugins but dont really wanna make it
+PS Arbitrary Map - can make some cool transitons if used correctly
+Selective Color - very useful for cc without plugins
+Tint - useful to change color of something quickly
+Tritone - color ramper. really useful for cc
+Vibrance - vibrance and saturation value changer
+
+-Distort-
+
+Bulge - creates a pan out bulg lens distort
+CC Bend It - used to bend the image and twist it around
+CC Bender - just like bend it
+CC Lens - lens distortion effect. very useful
+CC Power Pin - useful to make things look 3d but not actually using 3d orientation
+CC Slant - useful to make things slant to the ground
+CC Smear - distorts a image by smearing it with the help of position values
+CC Split/Split 2 - creates a split on the image and can be used to make characters talk by moving their mouths
+CC Tiler - quick motion tile/repetile effect but with only tiles and built in scale
+CC Cornor Pin - same effect as power pin
+Detail-preserving Upscale - upscales the edges and reduces noise of images but only noticable when zoomed in
+Displacement Map - creates a weird smooth glitch effect which can be useful for transitions
+Liquify - useful to make eye blink transitions and also to move stuff and liquify stuff like text
+Magnify - creates a magnifying glass
+Mesh Warp - warp from meshing like liquify
+Mirror - mirror transition
+Offset - offset from original position without actually moving position value
+Optics Compensation - creates a very good lens distortion effect
+Transform - has all the values needed to make transitions and shakes and also has skew which is very useful to make warps
+Turbulent Displace - makes smooth warps
+Twirl - rotation twirl effect
+Warp - creates different types of warps
+Warp Stabilizer - removes shaking from videos
+Wave Warp - wave warp like water waves
+
+-Generate-
+
+4-Color Gradient - useful to make cc and color ramps
+Audio Spectrum/Waveform - creates a audio spectrum
+Beam - useful to make underlines and also light sabers
+CC Light Burst 2.5 - ray hits effect
+CC Light Rays - creates a ray effect
+CC Light Sweep - makes a line sweep effect
+CC Threads - creates thread like lines which look very good
+Cell Pattern - creates small dot cell into a pattern
+Checkerboard - creates a chess checkerboard
+Circle - creates a masked cirlce but without a mask
+Ellipse - generates a glow circle
+Fill - used to fill any color on a layer
+Fractal - creates a very cool fractal noise effect
+Gradient Ramp - used to mix two colors and fade them into one
+Grid - useful for creating jail bars
+Lens Flare - creates a lens flare
+Paint Bucket - works like rotobrush but instead paints all the area like the bucket tool in microsoft paint
+Radio Waves - very useful to create a radio wave or signal effect
+Stroke - creates a outline on around a masked area
+Vegas - weird looking halftone type edgedetect but can be useful if used correctly
+Write-on - brush tool which can allow you to do some really smooth typography transitions and seamless brush transitions
+
+-Keying-
+
+Advanced Spill Suppressor - a very quick cc maker
+Color Difference Key - quick bottom layer shower
+Color Range - creates a cool clip color fading transition
+Extract - a better version of color range
+Linear Color Key - used to make certain colors transparent
+Add Grain - useful if you want to reduce quality or add a old tv/film grain
+Fractal Noise - looks good on text. used to make a noisy texture
+Match Grain - can be useful to create rgb effects but it is not meant to be used for that
+Median/Legacy - creates uncanny weird looking smooth colors
+Noise/Alpha - just like add grain effect but see through
+Noise HLS/Auto - better version of noise/alpha effect
+Remove Grain - used to remove grain/noise but can also be used to create some cool transitions
+Turbulent Noise - same as fractal noise
+
+-Obssolete-
+
+
+Basic 3D - basic controls for orienting and positioning objects in 3d
+Basic Text - clean text creater tool that lets you add text on different layers instead of a text layer
+Gaussian Blur - clean looking blur
+Lightning - makes cool lightning
+Path Text - is very useful to make text follow a path like a cirlce or something without having to mask out stuff and add expressions
+Spill Suppresor - useful for creating cc without plugins
+
+
+-Perspective-
+
+3D Glasses - useful to make a before/after difference comparison
+CC Cylinder - puts clip in a 3d cylinder shape
+CC Sphere - puts clip in a 3d circle
+CC Spotlight - creates a flash light effect
+Drop Shadow - useful to add depth behind something with a shadow
+
+-RE:Vision Plug-ins-
+
+RSMB - reel smart motion blur or really smooth motion blur. works like the in built motion blur but also blurs the actual movement of characters inside the clips and not only the transitions and it also improves motion blur quality
+Twixtor - works like the in built frame blending or optical flow blending but is way smoother and better and has less warping and sometimes no warping at all
+
+-Red Giant Color Suite-
+
+MBL/Magic Bullet Looks/Looks - the most useful plugin for creating cc. most cc's are created using this plugin because it has all the effects neccesarry for creating a good cc
+
+-Sapphire Adjust-
+
+S_Hotspots - useful for creating a serious and intense vibe cc
+S_HueSatBright - contains hue/color,saturation and brightness value sliders
+S_Invert - inverts colors just like normal invert but with more controls
+S_QuadTone - works just like 4color-gradient. basically creates a mix of 4 different colors
+S_Tint - adds a color changer
+S_Tritone - works just like quadtone but with 3 colors
+
+-Sapphire Blur+Sharpen=
+
+S_Blur - honestly creates a better looking blur than lens blur
+S_BlurDirectional - creates a clean directional blur with sharpness
+S_BlurMoCurves - basically just like the transform effect but with in built brightness value slider
+S_EdgeAwareBlur - blurs objects by detecting edges like ai
+S_GrainRemove - removes grain and noise and smooths out surfaces
+S_Sharpen - sharpness but with more control and also kind of in built unsharp mask
+S_SoftFocus - useful for adding a very lite blur in the background or on object
+
+
+-Sapphire Composite-
+
+S_Layer - contains all the neccessary value sliders used for common alteration of image
+S_MathOps - same as s_layer
+
+-Sapphire Distort-
+
+S_InfiniteZoom - creates that infinity mirror reflection zoom effect that you commonly see at the barber's or obs
+S_ParrallaxStrips - creates a lot of small tiles which can be used to create transitions
+S_Shake - you can literally create any type of screen shake with this
+S_StretchFrameEdges - cool if you wanna create a goofy meme face or something
+S_WarpBubble/2 - basically turbulent displace but worse
+S_WarpChroma - useful transition maker with chromatic aberration
+S_WarpMagnify - mesh warp but also zooms
+S_WarpPerspective - cool multiple 3d tile transition
+S_WarpTransform - transform effect which has all the neccesarry keyframe values
+
+-Sapphire Lighting-
+
+S_EdgeRays - creates cool rays on the edges of the characters or objects
+S_Glint/Rainbow - cool star exposure
+S_Glow - alternative for the deep glow plugin
+S_LensFlare/AutoTrack - you can create lens flare with the optical flares plugin but if that's not available use this. this is also used for glowing eyes
+S_Rays - just like s_edgerays but without edge detect
+S_SpotLight - another spotlight torch effect
+
+-Sapphire Render-
+
+S_Aurora - creates the north pole sky aurora light leaks
+S_Caustics - water wave texture
+S_Clouds - clouds texture
+S_CloudsColorSmooth - smooth/chroma clouds
+S_CloudsMultiColor - multiple colored clouds
+S_CloudsPerspective - clouds with 3d perspective
+S_CloudsPsyko - crazy clouds
+S_CloudsVortex - tornado vortex rotation tunnel clouds
+S_Gradient - 2 color mix
+S_GradientMulti - 4 color mix
+S_Grid - useful if making some prison bars
+S_Grunge - rough grainy/noisy texture
+S_Luna - moon with changable phases
+S_NightSky - night sky stars overlay effect
+S_Sparkles/Color - cool starry exposure sparkles
+S_TextureCells - smooth texture like cells moving
+S_TextureFlux - smooth moving texture like water waves
+S_TextureFolded - just like texture flux but different
+S_TextureLoops - just like texture flux but different
+S_TextureMicro - edgy texture flux
+S_TextureNeurons - moving strands texture
+S_TexturePlasma - just like textureflux but different
+S_TextureSpots - kind of like texture cells but without the cells moving
+S_Zap/From/To - useful for creating a point where electricity is coming from
+
+-Sapphire Stylize-
+
+S_Cartoon - useful in creating cc. makes the edges outlined to make it look like a outlined cartoon
+S_Crosshatch - cool edgy starry texture
+S_Diffuse - thanos snap effect. turns things into particles
+S_DigitalDamage - glitch effect honestly better than bcc cross glitch
+S_EdgeColorize - detects edges and colorizes them
+S_EdgeDetect - detects edges but doesn't colorize them
+S_EdgesInDirection - detects edges but in a specific direction like directional blur
+S_Emboss/Shiny - edgedetect but with scale bump. can be used to create a bump up transition
+S_Etching - edgy halftone effect but shaped like diamonds
+S_FilmDamage - tv screen glitchy damage effect like in old tv's
+S_Grain/Static - can be used to add an unhd texture noise grain to an object
+S_Halftone/Color - dots like effect useful in creating nets
+S_HalftoneRings - same as halftone but with circles instead of cube dots
+S_Mosaic - blocky blur used to censor things
+S_PixelSort/AE Pixel Sorter 2 - creates a cool edgy transition commonly used in music videos with fast bars or raps
+S_PsykoBlobs - crazy moving texture
+S_PsykoStripes - crazy moving texture 2
+S_Scanlines/Mono - creates a old tv screen moving effect
+S_StripSlide - slides a strip from any direction
+S_TVDamage - old tv damage
+S_Vignette - adds a soft circle border on the corners of the screen. very useful
+
+-Sapphire Time-
+
+S_Flicker - creates a light flicker effect
+S_GetFrame - lets you pick a single frame to make gfx or thumbnail on from a clip
+S_NearestColor - creates a uncanny creepy face
+S_RandomEdits - picks out random frames from a clip and flickers them to create a memory flashback effect
+S_TimeSlice - creates a warpy transition wipe slice
+
+
+-Sapphire Transitions-
+
+-Check This Category For Transitions If You Don't Like Or Want The Ones Listed Here Because There Are More-
+
+S_DissolveLuma - fades out but with a darkness cover effect
+S_DissolveGlint - fades out but with a starry glint
+S_DissolveLensFlare - fades out but with a lens flare
+S_DissolveEdgeRays - fades out but with rays on edges
+S_WipeBubble - clean linear wipe but with turbulent displace
+S_WipeCircle - circle shape zoom wipe
+S_WipeClock - wipe but like clock handle
+S_WipeClouds - wipe dissolve but with clouds
+S_WipeLine - linear wipe like timeslice but without the warpness
+
+
+-Simultion-
+
+CC Ball Action - creates ball shaped particles that look pretty cool
+CC Bubbles - creates a air bubble particle
+CC Mr.Mercury - turns anything into flowing liquid
+CC ParticleWorld/Particle Systems II - used to create many different types of particles and particle animations
+CC Scatterize - thanos snap scatter effect
+CC Rainfall - very realistic rain fall simulator
+CC Snowfall - very realistic snow fall simulator
+CC Star Burst - cool space stars ship travel simulation particles
+Particle Playground - experiment with particles and how physics and gravity works in after effects
+Shatter - used to break things and mainly glass. very realistic shatter simulator
+
+-Stylize-
+
+Cartoon - creates a cartoonish outline on characters or objects
+CC RepeTile - basically works the same way as motion tile but is way better overall, has more features and is more compatible with other effects
+Motion Tile - creates mirror tiles used to make transitions without running out of space
+Mosaic - blocky censor blur
+
+-Text-
+
+Numbers - insanely useful if you want to make subscriber count moving or make a time moving text
+Timecode - useful if you wanna add a timer to your clip
+
+-Time-
+
+CC Wide Time - creates a smooth time forward and backward effect by combining the past and the future frames
+Posterize Time - reduces or increases the fps/frame rate of the clip
+Time Displacement - creates a uncanny matrix time warping effect
+Timewarp - basically like the twixtor speed value slider or time remap
+
+
+-Transition-
+
+-Check This Category For Transitions If You Don't Like Or Want The Ones Listed Here Because There Are More-
+
+CC Jaws - creates black bars
+
+-Trapcode-
+
+3D Stroke - used to create moving 3D lines with paths
+
+-Video Copilot-
+
+Element/3D - incredibly useful for creating 3d objects and mainly 3d text
+Optical Flares - incredibly useful for creating lens flares and light from a specific direction like the sun
+Saber - has very smooth outline presets for outling masks or 3d strokes
+Twitch - creates rough and hard shakes commonly used in tiktok edits
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 tutorial examples:
 after effects for newbie
